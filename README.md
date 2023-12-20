@@ -21,8 +21,8 @@ The ROM can be overwritten by placing a ROM blueprint with the bottom-most combi
 
 ### GPIO
 By connecting large power pole in the blueprint, the signals 1-5 can be accessed by the computer.
-The addresses `-1` to `-5` inclusive are used to write to signals 1-5,
-and addresses `-6` to `-10` inclusive are used to read to signals 1-5.
+The addresses `-1` to `-5` inclusive are used to write to (red) signals 1-5,
+and addresses `-6` to `-10` inclusive are used to read from (green) signals 1-5.
 
 
 ### Machine Code
