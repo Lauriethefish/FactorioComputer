@@ -24,6 +24,9 @@ By connecting large power pole in the blueprint, the signals 1-5 can be accessed
 The addresses `-1` to `-5` inclusive are used to write to (red) signals 1-5,
 and addresses `-6` to `-10` inclusive are used to read from (green) signals 1-5.
 
+![Diagram of computer](diagram.png)
+[Blueprint String](blueprint.txt)
+
 
 ### Machine Code
 
